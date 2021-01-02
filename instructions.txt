@@ -1,3 +1,14 @@
 Move - Arrow Keys
 Powers - 1-5
 Start - Space
+
+The aim is to loose all your coins!
+
+Powers:
+- Gravity: Forces you to go down more
+- Anti-Coins: Coins are worth negative
+- Freeplay: Disables auto-slide
+- Clone: Create a duplicate and split the coins
+- Combust: Explode your current player and loose all current coins
+
+Gravity, Anti-Coins and Freeplay last 30 seconds each.
