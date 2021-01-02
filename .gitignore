@@ -4,3 +4,5 @@ __pycache__
 dist
 *.spec
 *original*
+*.iss
+*.py
