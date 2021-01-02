@@ -1,0 +1,1 @@
+This game was created for the EchoVR EU Game Jam 2020-2021 and is liable to have bugs, include 3rd party assets and use unclear controls.
